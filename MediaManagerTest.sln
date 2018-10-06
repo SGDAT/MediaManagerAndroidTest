@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaManagerTest.Android", "MediaManagerTest\MediaManagerTest.Android\MediaManagerTest.Android.csproj", "{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MediaManagerTest", "MediaManagerTest\MediaManagerTest\MediaManagerTest.shproj", "{AAC12390-AFB9-4BEB-9E69-32DDA5A268EC}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MediaManagerTest\MediaManagerTest\MediaManagerTest.projitems*{089ae458-1e1d-4bde-a09d-ad3b6b8559e0}*SharedItemsImports = 4
+		MediaManagerTest\MediaManagerTest\MediaManagerTest.projitems*{aac12390-afb9-4beb-9e69-32dda5a268ec}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089AE458-1E1D-4BDE-A09D-AD3B6B8559E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF77503-BF56-4324-8EAE-08FF2360F32F}
+	EndGlobalSection
+EndGlobal
